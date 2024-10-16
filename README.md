@@ -20,7 +20,7 @@ Support
 -------
 
 If you have any questions, issues, or suggestions, feel free to reach out to the MatrixDev team.If You Like To Contribute Please Join Our
-[Discord(https://discord.gg/BsAWWpDeST)
+[Discord](https://discord.gg/BsAWWpDeST)
 
 Changelog
 ---------
