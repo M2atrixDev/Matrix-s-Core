@@ -1,7 +1,5 @@
-# Matrix-s-Core
+# Matrix's Core
 
-
-"Matrix's Core
 ================
 
 Matrix's Core is a comprehensive library plugin designed to provide a solid foundation for all Matrix's plugins. This plugin serves as a dependency for various other Matrix's plugins, providing a set of core functionality and APIs that enable developers to build upon and create custom features.
@@ -21,14 +19,15 @@ To get started with Matrix's Core, simply install the plugin on your Minecraft s
 Support
 -------
 
-If you have any questions, issues, or suggestions, feel free to reach out to the MatrixDev team.
+If you have any questions, issues, or suggestions, feel free to reach out to the MatrixDev team.If You Like To Contribute Please Join Our
+[Discord(https://discord.gg/BsAWWpDeST)
 
 Changelog
 ---------
 
-[Insert changelog information here]
+Soon Realese Will Be available 
 
 Credits
 -------
 
-Matrix's Core is developed and maintained by MatrixDev."
+Matrix's Core is developed and maintained by MatrixDev And His Team
